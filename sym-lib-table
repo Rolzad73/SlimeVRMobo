@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "gy-521")(type "KiCad")(uri "${KIPRJMOD}/gy-521.kicad_sym")(options "")(descr ""))
+  (lib (name "TP4056")(type "KiCad")(uri "${KIPRJMOD}/4056board.kicad_sym")(options "")(descr ""))
+)
